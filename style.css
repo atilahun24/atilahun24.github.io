@@ -1,6 +1,15 @@
 .feature i {
-  color: #f75e4f;
+  color: black;
   font-size: 2em;
+}
+
+.headingST {
+  /* text-align: center; */
+  /* margin-right: 45px; */
+}
+
+#projects {
+  background-color: black;
 }
 
 #projectsHeader {
@@ -11,7 +20,7 @@
 
 #skillsandtech {
   margin: 75px;
-  text-align: center;
+  /* text-align: center; */
 }
 
 #skillz {
@@ -19,16 +28,19 @@
 }
 
 #viewBeep {
-  margin-left: 70px;
+  /* margin-left: 70px; */
   margin-top: 25px;
+  align: center;
 }
 
 #viewDesiderata {
-  margin-left: 55px;
+  /* margin-left: 55px; */
   margin-top: 25px;
+  align: center;
 }
 
 #viewAT {
-  margin-left: 45px;
+  /* margin-left: 45px; */
   margin-top: 25px;
+  align: center;
 }
